@@ -1,0 +1,24 @@
+[2026-04-17 15:42:39] Role: student
+User: when is my exam?
+Bot: Your exam is scheduled for next month. Check the notice board for exact dates.
+
+[2026-04-17 15:43:10] Role: student
+User: what is holiday plan?
+Bot: Holiday is next Friday
+
+[2026-04-17 15:43:24] Role: student
+User: holiday plan
+Bot: Holiday is next Friday
+
+[2026-04-17 15:44:24] Role: teacher
+User: where is my exam duty?
+Bot: You are assigned to Room 101 for invigilation duty.
+
+[2026-04-17 15:44:57] Role: teacher
+User: when result will be upload ?
+Bot: Upload student results before the deadline.
+
+[2026-04-17 15:48:17] Role: admin
+User: fees
+Bot: Fee records are maintained in the accounts section.
+

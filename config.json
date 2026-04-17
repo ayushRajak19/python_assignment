@@ -1,0 +1,71 @@
+{
+    "student": {
+        "exam": [
+            "Your exam is scheduled for next month. Check the notice board for exact dates."
+        ],
+        "exam schedule": [
+            "Exam timetable is available on the student portal."
+        ],
+        "result": [
+            "Your results will be declared next week."
+        ],
+        "assignment": [
+            "Submit your assignment before Friday."
+        ],
+        "holiday": [
+            "Holiday is next Friday. Enjoy your break!"
+        ],
+        "fees": [
+            "Your fee details are available on the student portal."
+        ],
+        "attendance": [
+            "Your attendance is currently 82%."
+        ],
+        "library": [
+            "Library is open from 9 AM to 6 PM on weekdays."
+        ],
+        "timetable": [
+            "The updated timetable is available on the department notice board."
+        ],
+        "holiday plan": [
+            "Holiday is next Friday"
+        ]
+    },
+    "teacher": {
+        "exam": [
+            "Exam schedule has been uploaded on the faculty portal."
+        ],
+        "duty exam": [
+            "You are assigned to Room 101 for invigilation duty."
+        ],
+        "meeting": [
+            "Staff meeting is scheduled at 3 PM today."
+        ],
+        "attendance": [
+            "Please submit attendance by 5 PM."
+        ],
+        "result upload": [
+            "Upload student results before the deadline."
+        ],
+        "syllabus": [
+            "Syllabus guidelines are available on the faculty portal."
+        ]
+    },
+    "admin": {
+        "fees": [
+            "Fee records are maintained in the accounts section."
+        ],
+        "notice": [
+            "All official notices are available on the dashboard."
+        ],
+        "admission": [
+            "Admissions are currently open."
+        ],
+        "schedule": [
+            "Institution schedule is available on the official website."
+        ],
+        "staff": [
+            "Staff details are maintained in the admin portal."
+        ]
+    }
+}
